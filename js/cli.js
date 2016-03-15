@@ -1,9 +1,9 @@
-var object = require('./object.js').object;
+var alarm = require('./alarm.js').alarm;
 var prompt = require('prompt');
 prompt.start();
 
 prompt.get('goal', function(err, result){
-  var output = object(result.goal);
+  var output = alarm(result.goal);
   output.forEach(function(element){
     console.log(element);
   });
