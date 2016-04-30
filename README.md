@@ -6,7 +6,7 @@
 
 ####This app was built as an exercise for Epicodus and is not meant to be replicated. I'm keeping it here for my own records, and for nostalgia's sake. Feel free to play with it, but be aware that it is not a complete project.
 
-_The project was put together using node.js, bower, and gulp._
+_Alarm clock allows a user to input a target time, and will log 'BEEP BEEP BEEP' in the console at the time the user input.  The project was put together using node.js, bower, gulp, and moment.js._
 
 
 ## Setup/Installation
