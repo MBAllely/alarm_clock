@@ -1,14 +1,10 @@
-# _Repo Ripper_
+# Alarm Clock
 
-#### _A simple API web app, 3.18.2016_
-
-### By _**Marika Allely**_
+### By _**Marika Allely and Adam Ross Russell**_
 
 ## Description
 
-_This web app is designed to take a github username as input and return the user's repository names and descriptions._
-
-_The goal of this project is to illustrate an understanding of node, bower, gulp, and APIs._
+####This app was built as an exercise for Epicodus and is not meant to be replicated. I'm keeping it here for my own records, and for nostalgia's sake. Feel free to play with it, but be aware that it is not a complete project.
 
 _The project was put together using node.js, bower, and gulp._
 
@@ -22,7 +18,7 @@ _The project was put together using node.js, bower, and gulp._
 
 #### Installation
 
-* Clone the repo from [gitHub](https://github.com/MBAllely/repo_ripper)
+* Clone the repo from [gitHub](https://github.com/MBAllely/alarm_clock)
 * After cloning the repo, you will need to install dependencies...
 
 
@@ -38,8 +34,6 @@ _The project was put together using node.js, bower, and gulp._
 ## Known Bugs
 
 _This application is not fully designed and may have unknown bugs._
-
-_Program can only return the first hundred repos from a gitHub user.  Will look into pagination for the future._
 
 ## Support and contact details
 
